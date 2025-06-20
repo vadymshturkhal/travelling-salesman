@@ -13,6 +13,9 @@
 * Lev Abalkin;
 * The Rabbit;
 
+## Notes:
+* Provide a pseudo Traveller Salesman solver (heuristic) with time complexity(V*E) and invariant (min distance to edge);
+
 ## Related problems:
 * Knapsack;
 * Shortest Path;
